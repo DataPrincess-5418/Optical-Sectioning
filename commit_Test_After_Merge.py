@@ -1,2 +1,2 @@
-ans = 42
+ans = 40
 print("The answer is ", ans)
