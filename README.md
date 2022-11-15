@@ -6,7 +6,8 @@ The research directory of optical sectioning
 
 
 # the first push was successful, now try the second push
-# what the fuck
 
 
-# nage
+# Today's task: make sure our repository works well
+
+### Bruce is very busy this week, Bruce can't spend too much time on doing the research, or Bruce will fail his midterm on Friday
